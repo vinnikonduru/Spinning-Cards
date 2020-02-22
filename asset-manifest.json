@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Spinning-Cards/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Spinning-Cards/static/js/main.b9c8e61a.chunk.js",
+    "main.js.map": "/Spinning-Cards/static/js/main.b9c8e61a.chunk.js.map",
+    "runtime-main.js": "/Spinning-Cards/static/js/runtime-main.4c0a4520.js",
+    "runtime-main.js.map": "/Spinning-Cards/static/js/runtime-main.4c0a4520.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/Spinning-Cards/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.a51c31b5.chunk.js": "/Spinning-Cards/static/js/2.a51c31b5.chunk.js",
+    "static/js/2.a51c31b5.chunk.js.map": "/Spinning-Cards/static/js/2.a51c31b5.chunk.js.map",
+    "index.html": "/Spinning-Cards/index.html",
+    "precache-manifest.4cf18d6d2a57d75192db7d1f37b8a2dd.js": "/Spinning-Cards/precache-manifest.4cf18d6d2a57d75192db7d1f37b8a2dd.js",
+    "service-worker.js": "/Spinning-Cards/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/Spinning-Cards/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Spinning-Cards/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.a51c31b5.chunk.js.LICENSE.txt": "/Spinning-Cards/static/js/2.a51c31b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c0a4520.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.a51c31b5.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.b9c8e61a.chunk.js"
+  ]
+}
